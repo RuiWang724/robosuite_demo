@@ -6,14 +6,6 @@ A state machine based robot control system for pick and place tasks using robosu
 
 This system controls a robotic arm to perform pick and place operations through a series of predefined states. The robot moves through states like moving to object, opening gripper, descending, grasping, lifting, moving to goal, and releasing the object.
 
-## Features
-
-- **State Machine Control**: Sequential execution of robot actions
-- **High-Quality Video Recording**: Records robot operations with proper orientation
-- **Collision Detection**: Monitors and reports collision events
-- **Configurable Parameters**: Adjustable control parameters via command line
-- **Success Rate Tracking**: Comprehensive performance metrics
-
 ## Installation
 
 ```bash
@@ -176,4 +168,4 @@ The robot follows this sequence of states:
 
 ## License
 
-This project is for educational and research purposes.
+This project is for educational purposes.
