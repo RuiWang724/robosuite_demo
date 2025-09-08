@@ -129,21 +129,6 @@ The robot follows this sequence of states:
 - **Average Steps**: Mean number of steps per episode
 - **Total Collisions**: Number of collision events
 
-## Troubleshooting
-
-### Common Issues
-
-1. **High collision count**: Reduce movement speed or increase position tolerance
-2. **Task failures**: Check goal position coordinates and grasp height
-3. **State timeouts**: Increase state timeout or reduce position tolerance
-4. **Video not saving**: Check `videos/` directory permissions
-
-### Performance Optimization
-
-1. **For speed**: Increase tolerances, reduce state timeout
-2. **For precision**: Decrease tolerances, increase state timeout
-3. **For reliability**: Use default parameters with moderate adjustments
-
 ## File Structure
 
 ```
