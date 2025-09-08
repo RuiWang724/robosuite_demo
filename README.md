@@ -6,8 +6,8 @@ A state machine based robot control system for pick and place tasks using robosu
 
 This system controls a robotic arm to perform pick and place operations through a series of predefined states. The robot moves through states like moving to object, opening gripper, descending, grasping, lifting, moving to goal, and releasing the object.
 
-https://github.com/RuiWang724/robosuite_demo/blob/main/videos/pickplace_ep0_success.mp4
-
+## Video
+[![Watch the video](demo.png)](https://www.bilibili.com/video/BV1B2aRzHEZR/?vd_source=3e9614880d00ee2633a68b2f76988428)
 
 ## Installation
 
