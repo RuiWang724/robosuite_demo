@@ -1,0 +1,4 @@
+Task success rate: 3/3 (100.0%)
+Completion rate: 3/3 (100.0%)
+Average steps: 338.7
+Total collisions: 1016
